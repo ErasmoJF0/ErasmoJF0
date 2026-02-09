@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
