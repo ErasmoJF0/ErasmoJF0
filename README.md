@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/ErasmoJF0?tab=repositories&sort=stargazers">
         <img 
             alt="Total stars" 
-            title="Total de estrelas GitHub" 
+            title="Total stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ErasmoJF0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
