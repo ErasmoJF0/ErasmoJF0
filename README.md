@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
