@@ -22,11 +22,15 @@ With a strong background in agile methodologies (Scrum) and code versioning (Git
     <a href="https://github.com/ErasmoJF0?tab=followers">
         <img 
             alt="Followers" 
-            title="Follow me on GitHub" 
+            title="-Follow me on GitHub-" 
             src="https://custom-icon-badges.demolab.com/github/followers/ErasmoJF0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
-         <a href="https://www.linkedin.com/in/erasmojfsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+         <a href="https://www.linkedin.com/in/erasmojfsilva" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
 
