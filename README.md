@@ -3,7 +3,7 @@
 
 **I am ERASMO** I am Erasmo, an iOS developer with expertise in Xcode, UIKit, Swift, and SwiftUI. I have experience working with global companies like Gap, Kroger, and Yape (Peru), and most recently, I contributed to the "Caixa Mais" project for Caixa Econômica Federal through Spread Tecnologia.
 
-With a strong background in agile methodologies (Scrum) and code versioning (Git), I am committed to continuous learning and stay updated with the latest market trends, ready to tackle new challenges..  Linkedin: [Erasmo JF Silva](https://www.linkedin.com/in/erasmojfsilva/)
+With a strong background in agile methodologies (Scrum) and code versioning (Git), I am committed to continuous learning and stay updated with the latest market trends, ready to tackle new challenges..  **Linkedin**: [Erasmo JF Silva](https://www.linkedin.com/in/erasmojfsilva/)
 <!--
 **ErasmoJF0/ErasmoJF0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
