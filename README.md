@@ -32,6 +32,7 @@ With a strong background in agile methodologies (Scrum) and code versioning (Git
             title="LinkedIn"
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
+    <a href = "mailto:mamojfonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
