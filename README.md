@@ -113,7 +113,7 @@ Here are some ideas to get you started:
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoJF0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoJF0&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=7" 
   />
 
 </p>
